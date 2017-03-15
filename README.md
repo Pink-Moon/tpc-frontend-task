@@ -1,20 +1,23 @@
 The Psychometrics Centre
 ========================
-Task for front-end developer.
+Task to complete for front-end developer in the recruitment process. 
+
+By pushing your changes here you retain all the rights to it, in other words we won't use  your design/code for any 
+of our products without your knowledge.
 
 Preparations
 ------------
 
-1. Clone this repository locally
+1. Fork and clone this repository locally
 2. Create a branch with your name i.e. `jsmith`
  
-Next, choose to complete one of the tasks below, pick one that better suits your expertise.
+Next, choose to complete **one** of the tasks below, pick one that better suits your expertise.
  
 Task #1
 -------
 Requirements:
 1. Design a static web page using HTML5, CSS3 (SASS allowed), UI library of choice, that:
- - shows a question (could be html) and possible answers (could be html, no more than 5)
+ - shows a question (could be html with an image) and possible answers (could be html with an image, no more than 5)
  - has ability to click an answer or skip the question
  - has some sort of progress indicator
  - allows to visually identify it with The Psychometrics Centre brand, creative take on the subject is encouraged
@@ -22,10 +25,10 @@ Requirements:
 2. Put your work in `tpc-frontend-task-static` module.
 3. Use NPM to manage 3rd party dependencies and to automate the process of creating output artifacts, if applicable.
 4. Create a `README.md` and describe how to run it
-5. Push your branch to the repo
+5. Create a pull request with your changes to this repository
 
 Evaluation criteria:
-* **aesthetics** - do a random sample of office mates say it's pleasing,
+* **Aesthetics** - do a random sample of office mates say it's pleasing,
 * **HTML5** - does it conform to the specs and chosen UI library best practices, is the markup used meaningful and 
 necessary, can other human being understand and further work with it,
 * **CSS** - does it conform to the specs, are the rules meaningful and necessary, can other human being understand 
@@ -37,18 +40,18 @@ output artifacts or IDE-specific files.
 
 Example of questions:
 
-      '<p>Is my hovercraft full of eels?</p>',
-      '<p>I deserve special treatment from others</p>',
-      '<p>I find it difficult to approach others</p>',
-      '<p>I pay attention to details</p>',
+      '<p>Is my hovercraft full of eels?</p>'
+      '<p>I deserve special treatment from others</p>'
+      '<p>I find it difficult to approach others</p>'
+      '<p>I pay attention to details</p>'
       '<p>I find rabbits confusing</p>'
     
 Possible answers:    
     
-      ['Strongly agree', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Strongly disagree'],
-      ['Never', 'Rarely', 'Sometimes', 'Often', 'Always'],
-      ['Yes', 'No'],
-      ['Not at all probable', 'Slightly probable', 'Moderately probable', 'Very probable', 'Completely probable'],
+      ['Strongly agree', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Strongly disagree']
+      ['Never', 'Rarely', 'Sometimes', 'Often', 'Always']
+      ['Yes', 'No']
+      ['Not at all probable', 'Slightly probable', 'Moderately probable', 'Very probable', 'Completely probable']
       ['Very confusing', 'Not confusing', 'Prefer not to say']
 
 Task #2
@@ -67,10 +70,10 @@ library of your choice, that:
 2. Put your work in `tpc-frontend-task-ng` module that you need to create.
 3. You can use either NPM or NPM with `@angular/cli` to manage the process of generating output artifacts.
 4. Create a `README.md` and describe how to run it
-5. Push your branch to the repo
+5. Create a pull request with your changes to this repository
 
 Evaluation criteria:
-* **aesthetics** - do a random sample of office mates say it's pleasing,
+* **Aesthetics** - do a random sample of office mates say it's pleasing,
 * **Angular/JavaScript/Typescript** - does it follow Angular's code convention, how the code is organized, are the 
 components meaningful and does the design allow to further develop the app, 
 what happens if the backing service is not available.
