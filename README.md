@@ -5,11 +5,13 @@ Task to complete for front-end developer in the recruitment process.
 By pushing your changes here you retain all the rights to it, in other words we won't use  your design/code for any 
 of our products without your knowledge.
 
+If you have any technical questions - please use the issue tracker here.
+
 Preparations
 ------------
 
 1. Fork and clone this repository locally
-2. Create a branch with your name i.e. `jsmith`
+2. Create a branch with your name or initials i.e. `jsmith`
  
 Next, choose to complete **one** of the tasks below, pick one that better suits your expertise.
  
