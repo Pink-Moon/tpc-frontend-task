@@ -17,11 +17,13 @@ Next, choose to complete **one** of the tasks below, pick one that better suits 
  
 Task #1
 -------
+The objective here is to demonstrate the ability to design something that is good-looking, and writing valid and usable HTML5/CSS3 at the same time.
+
 Requirements:
-1. Design a static web page using HTML5, CSS3 (SASS allowed), UI library of choice, that:
+1. Design a static web page (literally one page) using HTML5, CSS3 (SASS suggested), UI library of choice, that:
  - shows a question (could be html with an image) and possible answers (could be html with an image, no more than 5)
- - has ability to click an answer or skip the question
- - has some sort of progress indicator
+ - has ability to click an answer or skip the question (UI feature only, not logic)
+ - has some sort of progress indicator (UI feature only)
  - allows to visually identify it with The Psychometrics Centre brand, creative take on the subject is encouraged
  - is mobile and ultra-wide friendly
 2. Put your work in `tpc-frontend-task-static` module.
@@ -58,6 +60,8 @@ Possible answers:
 
 Task #2
 -------
+The objective here is to demonstrate the ability to create front-end code using same tech stack that we use in our products.
+
 There is a `tpc-frontend-task-service` module which is a standard ExpressJS app. When started, each request to 
 `http://localhost:3000/questions/next`  serves random question as JSON. 
 
