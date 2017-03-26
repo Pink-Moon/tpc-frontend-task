@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "files": ["./tpc-frontend-task-static/index.html"],
+  "server": { "baseDir": "./tpc-frontend-task-static" }
+}

@@ -30,6 +30,7 @@
   color: #fff;
   padding: 5px;
   border-radius: 5px;
+  font-family: "myriad-pro-n3","myriad-pro";
 }
 .question {
   margin-top: 40px;
@@ -41,7 +42,13 @@
   margin: 18px;
 }
 .mdl-button:hover {
-  background-color: #9e9e9e;
+  background-color: #e0e0e0;
+}
+#prev, #next {
+  background-color: #4fc3f7;
+}
+#prev:hover, #next:hover {
+  background-color: #03a9f4;
 }
 .demo-ribbon {
   width: 100%;

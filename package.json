@@ -1,0 +1,23 @@
+{
+  "name": "frontend_task",
+  "version": "1.0.0",
+  "description": "The Psychometrics Centre ======================== Task to complete for front-end developer in the recruitment process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pink-Moon/tpc-frontend-task.git"
+  },
+  "author": "jmartorell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pink-Moon/tpc-frontend-task/issues"
+  },
+  "homepage": "https://github.com/Pink-Moon/tpc-frontend-task#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
